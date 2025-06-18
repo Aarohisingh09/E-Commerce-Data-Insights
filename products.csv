@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P001,Product 1,Electronics,1200
+P002,Product 2,Clothing,800
+P003,Product 3,Books,450
+P004,Product 4,Home,2300
+P005,Product 5,Toys,1500
+P006,Product 6,Sports,999
+P007,Product 7,Beauty,650
+P008,Product 8,Grocery,300
+P009,Product 9,Footwear,1100
+P010,Product 10,Stationery,250
